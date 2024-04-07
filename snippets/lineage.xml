@@ -21,9 +21,6 @@
 
   <!-- External Repo -->
   <project path="external/tinycompress" name="android_external_tinycompress" remote="lineage"  revision="lineage-20.0" />
-
-  <!-- Hardware Repo -->
-   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="lineage" revision="lineage-20"/>
    
   <!-- Extract-utils -->
   <project path="tools/extract-utils" name="android_tools_extract-utils" remote="lineage" revision="lineage-20.0" />
